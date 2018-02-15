@@ -1,2 +1,2 @@
 # squelquel
-transforms a mysql schema into graphql query types
+Transforms a mysql schema into graphql query types
